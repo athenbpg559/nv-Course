@@ -23,3 +23,5 @@ sequelize.sync({ force: false })
             console.log('Server running on port ' + port)
         })
     })
+
+    
